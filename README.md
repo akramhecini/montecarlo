@@ -4,11 +4,7 @@ Author:
 
 akram.hecini@gmail.com
 
-
-Create a program using the method described in an article. This method makes it possible to calculate the folding of a protein by means of a Monte Carlo algorithm . An arbitrary protein sequence can be submitted to the program in order to calculate its folding by this model.
-
 This work is based on : A replica exchange Monte Carlo algorithm for protein folding in the HP model by Thachuk C, Shmygelska A, Hoos HH. 
-
 
 Environment :
 
